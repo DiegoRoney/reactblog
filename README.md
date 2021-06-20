@@ -1,6 +1,6 @@
 # REACT
 
-TIME: 8:51
+TIME: 14:54
 
 
 # Getting Started with Create React App

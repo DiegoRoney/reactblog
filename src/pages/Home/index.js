@@ -1,8 +1,31 @@
 import React from 'react';
+import './style.css';
 
 function Home() {
-    return <h1> PAGINA INICIAL</h1>
-    
+
+    return (
+        <div>
+            <header className='header'>
+                <div className='toolbar'>
+                    <div>
+                        <span>logo</span>
+                    </div>
+
+                    <div>
+                        <button>Novo Post</button>
+                        <span>img1</span>
+                        <span>img2</span>
+                    </div>
+
+                </div>
+            </header>
+
+            <main className='main'>
+                b main
+            </main>
+        </div>
+    );
+
 }
 
-export default Home; 
+export default Home;
