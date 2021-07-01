@@ -4,8 +4,7 @@ import './style.css';
 
 function Home() {
     return (
-        <div>
-            
+        <div>            
             <Header /> 
             <main className='main'>
               <div className='navbar'> navbar </div>
